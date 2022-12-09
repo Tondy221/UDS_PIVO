@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=HodinovyStroj
+comment1.params=hodiny
+comment1.target=HodinovyStroj(Collect)
+comment1.text=\r\n\ Vytvori\ hodinovy\ stroj.\r\n\ \r\n\ @param\ hodiny\ hodiny,\ v\ ktorych\ sa\ hodinovy\ stroj\ nachadza\ \ \ \ \ \ \ \ \ \r\n
+comment2.params=event
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3
